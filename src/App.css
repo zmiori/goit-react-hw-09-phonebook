@@ -1,0 +1,14 @@
+.appTitle {
+  font-size: 40px;
+
+}
+
+.phonebookWrapper {
+  display: flex;
+  justify-content: space-between;
+}
+
+.phonebookWrapper:first-child {
+  margin-right: 50px;
+}
+
